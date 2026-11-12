@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>Tienda Virtual La cocha</title>
+=======
+    <title>Tienda Virtual al aire libre</title>
+>>>>>>> aab71e4384f72e327df970fddd31ca014aaa7186
     <style>
 
         * {
@@ -13,11 +17,19 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
+<<<<<<< HEAD
             background-color: #e4ace4;
         }
 
         header {
             background-color: #a2bbab;
+=======
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #222;
+>>>>>>> aab71e4384f72e327df970fddd31ca014aaa7186
             color: white;
             padding: 20px;
             text-align: center;
@@ -68,6 +80,7 @@
     </style>
 </head>
 <body>
+<<<<<<< HEAD
    
 
 <header>
@@ -100,4 +113,31 @@
 
 
 
+=======
+    <header>
+    <h1>Mi tienda virtual</h1>
+    <p>Tienda virtual para que compres todos tus productos</p>
+    </header>
+    <nav>
+        <a href="/">Inicio</a>
+        <a href="/">Productos</a>
+        <a href="#">Categorias</a>
+        <a href="#">Contactos</a>
+    </nav>
+    <main>
+        <section class="bienvenida">
+            <h2>¡Bienvenido a nuestra tienda!</h2>
+            <p>
+                Encuentra los mejores productos en un solo lugar
+            </p>
+            <a href="/Productos" clas="boton"> Ver productos </a>
+        </section>
+    </main>
+    <footer> 
+        <p>
+            2026 Tienda virtual-Todos los derechos reservados 
+        </p>
+    </footer>
+</body>
+>>>>>>> aab71e4384f72e327df970fddd31ca014aaa7186
 </html>
